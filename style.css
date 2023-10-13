@@ -1,0 +1,9 @@
+html {
+  height: 100vh;
+  overflow: hidden;
+  width: 100%;
+}
+
+.h-almost-full {
+  height: calc(100vh - 5rem);
+}
